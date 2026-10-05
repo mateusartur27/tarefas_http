@@ -1,6 +1,6 @@
 # Minhas Tarefas — tarefas_http
 
-Aplicativo Flutter da atividade prática da apostila "Implementação do Protocolo HTTP no Flutter", até a seção 17 (inclusive).
+Aplicativo Flutter de uma atividade prática de "Implementação do Protocolo HTTP no Flutter".
 
 É um único aplicativo de tarefas. Os exemplos de álbuns nas seções 6–13 explicam HTTP; o Catálogo de Jogos começa na seção 18 e não integra esta entrega.
 
